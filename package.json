@@ -1,7 +1,6 @@
 {
 	"author": "Gmagnel Talang Emmanuel",
 	"name": "fcc-learn-npm-package-json",
-	"description": "This is a software that help people to chart online, exchange fiels amd other medium communication",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
