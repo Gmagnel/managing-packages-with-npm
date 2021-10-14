@@ -1,6 +1,7 @@
 {
 	"author": "Gmagnel Talang Emmanuel",
 	"name": "fcc-learn-npm-package-json",
+	"description": "This application help people to exchange files and do video communication",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
