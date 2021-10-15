@@ -2,9 +2,8 @@
 
 body {
 	font-family: 'Roboto', sans-serif;
-	font-size: 16px;
-	color: #222;
-	background-color: #ECF0F1;
+	color: #ddd;
+	background-color:#222;
 	text-align: center;
 }
 
@@ -33,3 +32,10 @@ img {
 	margin: 20px auto 0 auto;
 	display: block;
 }
+h1 {
+	font-size: 4em;
+  }
+  
+  input[type=text], label {
+	margin-bottom: 8px;
+  }
